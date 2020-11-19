@@ -1,6 +1,7 @@
 # CS-418-Project2
 Member #1 - William Ocampo, wocampo2, 676020425, Scribe 
-Member #2 - Stephen Lambert, slambe7, 674784220, Project Manager 
+Member #2 - Stephen Lambert, slambe7, 674784220, Project Manager
+
 Member #3 - Jasmine S. Gutierrez, jgutie45, 667750070, Timekeeper
 
 Note: Even though we split up the problems amongst each other, we all helped each other and reviewed the inputted solutions to verify their correctness.
@@ -14,7 +15,10 @@ Jasmine did problems 3, 4, 6, 7. Being the timekeeper, jasmine ensured every tea
 
 Instructions to run code:
 
-Run the following commands on your terminal to install the necessary packages: $ conda install plotly $ conda install geopandas $ conda install shapely $ conda install pyshp $ conda install -c plotly plotly-geo
-Launch Jupyter Notebook via Anaconda
-Navigate to and open project_01.ipynb
-Run
+1. Run the following commands on your terminal to install the necessary packages: $ conda install plotly $ conda install geopandas $ conda install shapely $ conda install pyshp $ conda install -c plotly plotly-geo
+
+2. Launch Jupyter Notebook via Anaconda
+
+3. Navigate to and open project_01.ipynb
+
+4. Run
