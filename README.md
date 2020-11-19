@@ -1,5 +1,6 @@
 # CS-418-Project2
 Member #1 - William Ocampo, wocampo2, 676020425, Scribe 
+
 Member #2 - Stephen Lambert, slambe7, 674784220, Project Manager
 
 Member #3 - Jasmine S. Gutierrez, jgutie45, 667750070, Timekeeper
